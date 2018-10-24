@@ -1,0 +1,92 @@
+body {
+    font-family: "arial";
+    color: black;
+    width: 20cm;
+    padding: 0,5cm;
+    margin:auto;
+
+
+
+}
+
+.formulario{
+    width: 400px;
+}
+
+form {
+    padding: 0,5cm;
+    
+
+}
+
+.movies {
+    font-family: "arial";
+    color:white;
+    text-align: center;
+    font-size: 1cm;
+    background-color:orange;
+    
+
+
+}
+
+div{
+    padding: 0.2cm;
+
+
+}
+
+.hide{
+display:none;  
+}
+
+.titulos{
+    font-weight: bold;
+    font-size: 10;
+}
+
+
+.posters{
+    align-self: CENTER;
+    border: 1px solid blue;
+    padding: 4px;
+    margin: 4px;
+
+}
+
+.columna{
+    width: 10cm;
+    border: 1px solid black;
+}
+.wrapper{
+    overflow: hidden;
+}
+article{
+    width: 275px;
+    border: 1px solid black;
+    padding: 15px;
+    float: left;
+    margin-left: 1px;
+    
+}
+
+h5{
+    text-decoration: underline;
+    background-color: black;
+    color:white;
+    padding: 5px;
+}
+
+img{
+    width: 220;
+    height: 325px;
+}
+
+.moreinfo{
+    overflow: hidden;
+    margin-left:1px;
+    float: left;
+    width: 760px;
+  
+    
+}
